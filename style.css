@@ -1,0 +1,13 @@
+.btn-group {
+  display: flex;
+  gap: 20px;
+}
+button {
+  padding: 10px 20px;
+}
+.container {
+  resize: both;
+  overflow: auto;
+  padding: 30px;
+  border: 2px solid;
+}
